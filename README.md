@@ -3,20 +3,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 491.6 kB Used in GitHub's Storage 
- > 
-> 🏆 162 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 19 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -46,30 +32,10 @@ Sunday                   683 commits         ███░░░░░░░░�
 💬 Programming Languages: 
 Other                    0 secs              ████████████████████████░   97.65 % 
 Java                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-
-🔥 Editors: 
-VS Code                  0 secs              ████████████████████████░   97.65 % 
-Intellijidea             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-```
-
-**I Mostly Code in C** 
-
-```text
-C                        52 repos            ███████████████░░░░░░░░░░   61.90 % 
-C++                      14 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-CMake                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/JXNCTED/JXNCTED/main/assets/bar_graph.png)
-
-
- Last Updated on 02/03/2024 00:36:54 UTC
+ Last Updated on 02/03/2024 00:42:49 UTC
 <!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats-rose-phi.vercel.app/api/top-langs/?username=jxncted\&layout=compact&hide=c,assembly,jupyter%20notebook)
