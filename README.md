@@ -1,7 +1,7 @@
 ![Alt Text](https://media.tenor.com/3Gehha8RO-sAAAAC/goose-dance.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-306%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-309%20hrs%2045%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -30,15 +30,15 @@ Sunday                   976 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Typst                    2 hrs 34 mins       ██████████████░░░░░░░░░░░   55.76 % 
-C++                      53 mins             █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-Python                   48 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-Lua                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Typst                    2 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   35.87 % 
+Python                   1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+i3config                 1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
+conf                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 ```
 
 
- Last Updated on 03/10/2024 18:51:08 UTC
+ Last Updated on 04/10/2024 18:50:34 UTC
 <!--END_SECTION:waka-->
 [![stats](https://github-readme-stats-rose-phi.vercel.app/api?username=jxncted&count_private=true)](https://github.com/jxncted/github-readme-stats)
 ![Top Langs](https://github-readme-stats-rose-phi.vercel.app/api/top-langs/?username=jxncted\&layout=compact&hide=c,assembly,jupyter%20notebook)
