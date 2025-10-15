@@ -1,8 +1,6 @@
 ![Alt Text](https://media.tenor.com/3Gehha8RO-sAAAAC/goose-dance.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-490%20hrs%201%20min-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -15,8 +13,8 @@
 
 ```text
 Monday                   703 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Tuesday                  760 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Wednesday                856 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Tuesday                  759 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Wednesday                857 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
 Thursday                 976 commits         █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
 Friday                   683 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
 Saturday                 613 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
@@ -34,7 +32,7 @@ Python                   7 mins              ███████████�
 ```
 
 
- Last Updated on 14/10/2025 18:54:04 UTC
+ Last Updated on 15/10/2025 18:55:28 UTC
 <!--END_SECTION:waka-->
 [![stats](https://github-readme-stats-rose-phi.vercel.app/api?username=jxncted&count_private=true)](https://github.com/jxncted/github-readme-stats)
 ![Top Langs](https://github-readme-stats-rose-phi.vercel.app/api/top-langs/?username=jxncted\&layout=compact&hide=c,assembly,jupyter%20notebook)
