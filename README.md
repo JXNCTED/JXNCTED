@@ -14,8 +14,8 @@
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   704 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Tuesday                  760 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Monday                   703 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Tuesday                  761 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
 Wednesday                859 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
 Thursday                 977 commits         █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
 Friday                   684 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
@@ -30,11 +30,12 @@ Sunday                   826 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 4 mins              ███████████████░░░░░░░░░░   59.11 % 
+C++                      3 mins              ██████████░░░░░░░░░░░░░░░   40.89 % 
 ```
 
 
- Last Updated on 19/01/2026 19:01:12 UTC
+ Last Updated on 20/01/2026 19:48:11 UTC
 <!--END_SECTION:waka-->
 [![stats](https://github-readme-stats-rose-phi.vercel.app/api?username=jxncted&count_private=true)](https://github.com/jxncted/github-readme-stats)
 ![Top Langs](https://github-readme-stats-rose-phi.vercel.app/api/top-langs/?username=jxncted\&layout=compact&hide=c,assembly,jupyter%20notebook)
