@@ -1,7 +1,7 @@
 ![Alt Text](https://media.tenor.com/3Gehha8RO-sAAAAC/goose-dance.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-494%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-494%20hrs%208%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -16,8 +16,8 @@
 ```text
 Monday                   703 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
 Tuesday                  760 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Wednesday                860 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-Thursday                 977 commits         █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+Wednesday                859 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Thursday                 978 commits         █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
 Friday                   684 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
 Saturday                 613 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
 Sunday                   826 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
@@ -30,12 +30,12 @@ Sunday                   826 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Markdown                 4 mins              ███████████████░░░░░░░░░░   59.11 % 
-C++                      3 mins              ██████████░░░░░░░░░░░░░░░   40.89 % 
+C++                      8 mins              ████████████████░░░░░░░░░   64.22 % 
+Markdown                 4 mins              █████████░░░░░░░░░░░░░░░░   35.78 % 
 ```
 
 
- Last Updated on 21/01/2026 19:11:41 UTC
+ Last Updated on 22/01/2026 19:04:49 UTC
 <!--END_SECTION:waka-->
 [![stats](https://github-readme-stats-rose-phi.vercel.app/api?username=jxncted&count_private=true)](https://github.com/jxncted/github-readme-stats)
 ![Top Langs](https://github-readme-stats-rose-phi.vercel.app/api/top-langs/?username=jxncted\&layout=compact&hide=c,assembly,jupyter%20notebook)
