@@ -19,8 +19,8 @@ Tuesday                  758 commits         ████░░░░░░░�
 Wednesday                856 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
 Thursday                 976 commits         █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
 Friday                   676 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Saturday                 613 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Sunday                   831 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Saturday                 612 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Sunday                   832 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
 ```
 
 
@@ -30,13 +30,11 @@ Sunday                   831 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Markdown                 9 mins              █████████████░░░░░░░░░░░░   53.71 % 
-TypeScript               8 mins              ████████████░░░░░░░░░░░░░   46.24 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 14/02/2026 19:05:09 UTC
+ Last Updated on 15/02/2026 19:06:56 UTC
 <!--END_SECTION:waka-->
 [![stats](https://github-readme-stats-rose-phi.vercel.app/api?username=jxncted&count_private=true)](https://github.com/jxncted/github-readme-stats)
 ![Top Langs](https://github-readme-stats-rose-phi.vercel.app/api/top-langs/?username=jxncted\&layout=compact&hide=c,assembly,jupyter%20notebook)
