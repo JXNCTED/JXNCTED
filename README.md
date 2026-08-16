@@ -8,21 +8,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                293 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-🌆 Daytime                3542 commits        ████████████░░░░░░░░░░░░░   49.27 % 
-🌃 Evening                2460 commits        █████████░░░░░░░░░░░░░░░░   34.22 % 
-🌙 Night                  894 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+🌞 Morning                293 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+🌆 Daytime                3542 commits        ████████████░░░░░░░░░░░░░   49.25 % 
+🌃 Evening                2460 commits        █████████░░░░░░░░░░░░░░░░   34.20 % 
+🌙 Night                  897 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1076 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Monday                   1076 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
 Tuesday                  973 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Wednesday                1205 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Thursday                 1224 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Friday                   1179 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Saturday                 684 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Sunday                   848 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Wednesday                1205 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Thursday                 1224 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Friday                   1182 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Saturday                 683 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+Sunday                   849 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
 ```
 
 
@@ -32,37 +32,36 @@ Sunday                   848 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    3 hrs 10 mins       ███████████████████░░░░░░   74.87 % 
-Markdown                 31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Svelte                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Other                    3 hrs 10 mins       ████████████████████████░   97.50 % 
+conf                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 46 mins (88.98%)
+⏱ AI Coding Time: 2 hrs 54 mins (89.67%)
 
-✍️ 943 lines written by AI, 1 lines written by hand (99.89% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 96,067,673 Input Tokens, 542,819 Output Tokens
+🔤 93,775,049 Input Tokens, 351,816 Output Tokens
 
-💵 $492.06 Estimated AI Cost This Week
+💵 $479.43 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 167 AI Prompts
+🧠 5 AI Sessions, 144 AI Prompts
 
-GPT                      943 lines           █████████████████████████   100.00 % 
-Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.89% of written lines came from AI
-📚 Verbose Prompter — average 10,285 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 0.32% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 10,507 characters per prompt
+🔁 Iterative Prompter — average 29 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/08/2026 19:18:54 UTC
+ Last Updated on 16/08/2026 19:21:48 UTC
 <!--END_SECTION:waka-->
 ![Top Langs](https://github-readme-stats-rose-phi.vercel.app/api/top-langs/?username=jxncted\&layout=compact&hide=c,assembly,jupyter%20notebook)
