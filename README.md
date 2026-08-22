@@ -20,8 +20,8 @@ Monday                   1077 commits        ████░░░░░░░�
 Tuesday                  979 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
 Wednesday                1210 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
 Thursday                 1234 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Friday                   1202 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-Saturday                 683 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Friday                   1201 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Saturday                 684 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
 Sunday                   848 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
 ```
 
@@ -32,36 +32,36 @@ Sunday                   848 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    6 hrs 43 mins       █████████████░░░░░░░░░░░░   51.83 % 
-Markdown                 4 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   34.73 % 
-YAML                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Image (png)              23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Markdown                 4 hrs 41 mins       ████████████░░░░░░░░░░░░░   46.83 % 
+Other                    3 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   36.58 % 
+YAML                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Image (png)              23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 29 mins (96.38%)
+⏱ AI Coding Time: 9 hrs 53 mins (98.66%)
 
 ✍️ 1,532 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 127,595,559 Input Tokens, 1,062,153 Output Tokens
+🔤 40,392,252 Input Tokens, 736,342 Output Tokens
 
-💵 $708.52 Estimated AI Cost This Week
+💵 $262.73 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 607 AI Prompts
+🧠 18 AI Sessions, 473 AI Prompts
 
 GPT                      1,532 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 8,358 characters per prompt
-🔁 Iterative Prompter — average 29 prompts per session
+📚 Verbose Prompter — average 7,620 characters per prompt
+🔁 Iterative Prompter — average 26 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/08/2026 19:32:42 UTC
+ Last Updated on 22/08/2026 19:24:35 UTC
 <!--END_SECTION:waka-->
 ![Top Langs](https://github-readme-stats-rose-phi.vercel.app/api/top-langs/?username=jxncted\&layout=compact&hide=c,assembly,jupyter%20notebook)
