@@ -8,21 +8,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                295 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-🌆 Daytime                3586 commits        ████████████░░░░░░░░░░░░░   48.97 % 
-🌃 Evening                2476 commits        ████████░░░░░░░░░░░░░░░░░   33.81 % 
-🌙 Night                  966 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+🌞 Morning                302 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+🌆 Daytime                3586 commits        ████████████░░░░░░░░░░░░░   48.92 % 
+🌃 Evening                2476 commits        ████████░░░░░░░░░░░░░░░░░   33.77 % 
+🌙 Night                  967 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1080 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Tuesday                  985 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Wednesday                1221 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Thursday                 1247 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Friday                   1228 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Saturday                 695 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-Sunday                   867 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Monday                   1080 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Tuesday                  985 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Wednesday                1220 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+Thursday                 1255 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Friday                   1229 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Saturday                 695 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+Sunday                   867 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
 ```
 
 
@@ -32,35 +32,37 @@ Sunday                   867 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-JSON                     3 hrs 38 mins       ████████████████░░░░░░░░░   63.05 % 
-Other                    1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   28.15 % 
-Python                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Other                    7 hrs 10 mins       ██████████████░░░░░░░░░░░   57.95 % 
+JSON                     2 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+Python                   1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 46 mins (100.0%)
+⏱ AI Coding Time: 12 hrs 8 mins (98.1%)
 
-✍️ 767 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 767 lines written by AI, 24 lines written by hand (96.97% AI-written)
 
-🔤 64,011,101 Input Tokens, 454,701 Output Tokens
+🔤 367,328,104 Input Tokens, 1,332,815 Output Tokens
 
-💵 $285.20 Estimated AI Cost This Week
+💵 $1518.39 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 163 AI Prompts
+🧠 36 AI Sessions, 286 AI Prompts
 
 GPT                      767 lines           █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 10,597 characters per prompt
+🤖 AI-Driven — 96.97% of written lines came from AI
+📚 Verbose Prompter — average 18,958 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 3.28% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/09/2026 21:38:16 UTC
+ Last Updated on 03/09/2026 21:42:01 UTC
 <!--END_SECTION:waka-->
 ![Top Langs](https://github-readme-stats-rose-phi.vercel.app/api/top-langs/?username=jxncted\&layout=compact&hide=c,assembly,jupyter%20notebook)
