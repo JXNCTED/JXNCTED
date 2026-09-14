@@ -8,21 +8,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                363 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-🌆 Daytime                3611 commits        ████████████░░░░░░░░░░░░░   47.96 % 
-🌃 Evening                2497 commits        ████████░░░░░░░░░░░░░░░░░   33.17 % 
-🌙 Night                  1058 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+🌞 Morning                365 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+🌆 Daytime                3617 commits        ████████████░░░░░░░░░░░░░   47.79 % 
+🌃 Evening                2523 commits        ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌙 Night                  1064 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1188 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Tuesday                  993 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Wednesday                1228 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Thursday                 1261 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Friday                   1293 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Saturday                 696 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-Sunday                   870 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Monday                   1195 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Tuesday                  998 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Wednesday                1229 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Thursday                 1261 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+Friday                   1307 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+Saturday                 705 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Sunday                   874 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
 ```
 
 
@@ -32,36 +32,35 @@ Sunday                   870 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    3 hrs 9 mins        █████████████████░░░░░░░░   68.71 % 
-Markdown                 1 hr                ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-YAML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-TOML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Other                    18 mins             █████████████░░░░░░░░░░░░   51.24 % 
+YAML                     16 mins             ████████████░░░░░░░░░░░░░   46.31 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 30 mins (98.23%)
+⏱ AI Coding Time: 36 mins (99.59%)
 
-✍️ 0 lines written by AI, 5 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 198,782,790 Input Tokens, 931,968 Output Tokens
+🔤 2,876,719 Input Tokens, 14,087 Output Tokens
 
-💵 $2034.27 Estimated AI Cost This Week
+💵 $29.32 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 76 AI Prompts
+🧠 3 AI Sessions, 10 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 13,163 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 4,613 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/09/2026 21:29:17 UTC
+ Last Updated on 14/09/2026 22:22:51 UTC
 <!--END_SECTION:waka-->
 ![Top Langs](https://github-readme-stats-rose-phi.vercel.app/api/top-langs/?username=jxncted\&layout=compact&hide=c,assembly,jupyter%20notebook)
