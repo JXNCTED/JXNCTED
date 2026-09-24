@@ -18,8 +18,8 @@
 ```text
 Monday                   1195 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
 Tuesday                  999 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Wednesday                1230 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Thursday                 1261 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+Wednesday                1229 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Thursday                 1262 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 Friday                   1307 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
 Saturday                 704 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
 Sunday                   874 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
@@ -32,34 +32,34 @@ Sunday                   874 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Markdown                 7 hrs 29 mins       █████████████████████████   99.39 % 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-bigfile                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Markdown                 4 hrs 56 mins       █████████████████████████   99.08 % 
+Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+bigfile                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 19 mins (97.07%)
+⏱ AI Coding Time: 4 hrs 45 mins (95.57%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 229,888,531 Input Tokens, 987,184 Output Tokens
+🔤 142,560,111 Input Tokens, 577,296 Output Tokens
 
-💵 $2348.24 Estimated AI Cost This Week
+💵 $1454.47 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 112 AI Prompts
+🧠 15 AI Sessions, 60 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 49,120 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📚 Verbose Prompter — average 46,767 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/09/2026 22:07:24 UTC
+ Last Updated on 24/09/2026 22:08:31 UTC
 <!--END_SECTION:waka-->
 ![Top Langs](https://github-readme-stats-rose-phi.vercel.app/api/top-langs/?username=jxncted\&layout=compact&hide=c,assembly,jupyter%20notebook)
