@@ -9,20 +9,20 @@
 
 ```text
 🌞 Morning                366 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-🌆 Daytime                3616 commits        ████████████░░░░░░░░░░░░░   47.72 % 
-🌃 Evening                2524 commits        ████████░░░░░░░░░░░░░░░░░   33.31 % 
-🌙 Night                  1071 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+🌆 Daytime                3616 commits        ████████████░░░░░░░░░░░░░   47.71 % 
+🌃 Evening                2524 commits        ████████░░░░░░░░░░░░░░░░░   33.30 % 
+🌙 Night                  1073 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1195 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Monday                   1196 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
 Tuesday                  999 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
 Wednesday                1229 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
 Thursday                 1261 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-Friday                   1314 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+Friday                   1316 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
 Saturday                 704 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-Sunday                   875 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Sunday                   874 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
 ```
 
 
@@ -32,34 +32,34 @@ Sunday                   875 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Markdown                 4 hrs 10 mins       █████████████████████████   98.92 % 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-bigfile                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Markdown                 1 hr 38 mins        ████████████████████████░   97.29 % 
+Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+bigfile                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs (94.77%)
+⏱ AI Coding Time: 1 hr 28 mins (86.97%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 139,365,277 Input Tokens, 567,239 Output Tokens
+🔤 31,680,595 Input Tokens, 112,533 Output Tokens
 
-💵 $1422.01 Estimated AI Cost This Week
+💵 $322.43 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 38 AI Prompts
+🧠 6 AI Sessions, 18 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 48,839 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📚 Verbose Prompter — average 30,506 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/09/2026 21:55:53 UTC
+ Last Updated on 28/09/2026 23:52:34 UTC
 <!--END_SECTION:waka-->
 ![Top Langs](https://github-readme-stats-rose-phi.vercel.app/api/top-langs/?username=jxncted\&layout=compact&hide=c,assembly,jupyter%20notebook)
