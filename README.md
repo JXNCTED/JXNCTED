@@ -17,10 +17,10 @@
 
 ```text
 Monday                   1197 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Tuesday                  1008 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Wednesday                1237 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Thursday                 1265 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-Friday                   1326 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+Tuesday                  1007 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Wednesday                1238 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Thursday                 1266 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Friday                   1325 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
 Saturday                 704 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
 Sunday                   874 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
 ```
@@ -32,33 +32,16 @@ Sunday                   874 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    12 mins             █████████████████████████   98.10 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+XML                      4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (100.0%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 28,598 Input Tokens, 228 Output Tokens
-
-💵 $0.30 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 0 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 0 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 06/10/2026 23:11:38 UTC
+ Last Updated on 07/10/2026 23:41:27 UTC
 <!--END_SECTION:waka-->
 ![Top Langs](https://github-readme-stats-rose-phi.vercel.app/api/top-langs/?username=jxncted\&layout=compact&hide=c,assembly,jupyter%20notebook)
