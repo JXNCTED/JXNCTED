@@ -9,20 +9,20 @@
 
 ```text
 🌞 Morning                366 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-🌆 Daytime                3632 commits        ████████████░░░░░░░░░░░░░   47.66 % 
-🌃 Evening                2535 commits        ████████░░░░░░░░░░░░░░░░░   33.26 % 
-🌙 Night                  1088 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+🌆 Daytime                3632 commits        ████████████░░░░░░░░░░░░░   47.68 % 
+🌃 Evening                2535 commits        ████████░░░░░░░░░░░░░░░░░   33.28 % 
+🌙 Night                  1085 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday                   1197 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Tuesday                  1007 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Wednesday                1237 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Thursday                 1266 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Friday                   1335 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-Saturday                 705 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-Sunday                   874 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Tuesday                  1007 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Wednesday                1237 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Thursday                 1266 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Friday                   1332 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Saturday                 704 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Sunday                   875 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
 ```
 
 
@@ -32,16 +32,35 @@ Sunday                   874 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-XML                      4 mins              █████████████████████████   100.00 % 
+Typst                    10 mins             █████████████░░░░░░░░░░░░   53.52 % 
+XML                      4 mins              ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
+tmux                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Python                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 14 mins (75.33%)
+
+✍️ 285 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 1,089,916 Input Tokens, 11,914 Output Tokens
+
+💵 $10.77 Estimated AI Cost This Week
+
+🧠 6 AI Sessions, 7 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 408 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/10/2026 22:22:55 UTC
+ Last Updated on 11/10/2026 22:43:48 UTC
 <!--END_SECTION:waka-->
 ![Top Langs](https://github-readme-stats-rose-phi.vercel.app/api/top-langs/?username=jxncted\&layout=compact&hide=c,assembly,jupyter%20notebook)
